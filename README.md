@@ -2,6 +2,8 @@
 
 Kessetna is an offline-first Windows application for Tunisian shops. It brings sales, stock, customer credit, expenses, cash control and reports into one French or Arabic interface.
 
+Official website: [kessetna.pages.dev](https://kessetna.pages.dev/)
+
 ## Download
 
 The current merchant-validation build is **Kessetna 0.4.0 beta 1**.
