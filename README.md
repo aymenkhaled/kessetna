@@ -6,9 +6,9 @@ Official website: [kessetna.pages.dev](https://kessetna.pages.dev/)
 
 ## Download
 
-The current merchant-validation build is **Kessetna 0.4.0 beta 1**.
+The latest published GitHub Release is **Kessetna 0.4.4** (September 2026). Always confirm the release notes and use a backup before updating business data.
 
-[Download Kessetna for Windows](https://github.com/aymenkhaled/kessetna/releases/download/v0.4.0-beta.1/Kessetna-Setup.exe)
+[Download Kessetna for Windows](https://github.com/aymenkhaled/kessetna/releases/download/v0.4.4/Kessetna-Setup.exe)
 
 - Windows 10 or Windows 11, 64-bit
 - Approximately 210 MB
@@ -16,7 +16,7 @@ The current merchant-validation build is **Kessetna 0.4.0 beta 1**.
 - Works without an internet connection after installation
 - Business data remains on the shop computer
 
-This is a pilot release. Test it with a backup or non-critical catalogue before relying on it in daily business.
+Test new releases using a backup or non-critical catalogue before relying on them in daily business.
 
 ## Windows Installation
 
@@ -51,7 +51,7 @@ Kessetna is not presented as certified accounting or fiscal software. Merchants 
 
 Kessetna تطبيق Windows يعمل دون إنترنت ومصمم للمحلات التونسية. يجمع البيع والمخزون وديون العملاء والمصاريف ومراقبة الصندوق والتقارير في واجهة عربية أو فرنسية.
 
-[تنزيل Kessetna لـ Windows](https://github.com/aymenkhaled/kessetna/releases/download/v0.4.0-beta.1/Kessetna-Setup.exe)
+[تنزيل Kessetna لـ Windows](https://github.com/aymenkhaled/kessetna/releases/download/v0.4.4/Kessetna-Setup.exe)
 
 - Windows 10 أو Windows 11 بنظام 64-bit
 - الحجم حوالي 210 MB
@@ -59,7 +59,7 @@ Kessetna تطبيق Windows يعمل دون إنترنت ومصمم للمحلا
 - تعمل دون اتصال بالإنترنت بعد التثبيت
 - تبقى بيانات المتجر على حاسوب التاجر
 
-هذه نسخة تجريبية مخصصة للتحقق مع التجار. اختبرها على نسخة احتياطية أو بيانات غير حساسة قبل اعتمادها في العمل اليومي.
+آخر إصدار منشور على GitHub هو **Kessetna 0.4.4**. احتفظ بنسخة احتياطية واختبر التحديث قبل الاعتماد عليه في العمل اليومي.
 
 قد يعرض Windows عبارة **ناشر غير معروف** لأن النسخة التجريبية غير موقعة بعد من ناشر معتمد. نزّل البرنامج من هذا المستودع أو من موقع Kessetna الرسمي فقط، وتأكد أن اسم الملف هو `Kessetna-Setup.exe`.
 
